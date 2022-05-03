@@ -35,5 +35,5 @@ Step 5: Simulate the adder module
 Once the adder and testbench modules are complete, compile the code and start a simulation with the testbench as the top-level module.  Run the simulation to completion and confirm that the console output and the waveform agree with the truth table for binary addition (refer to table 2-3 on page 32 of your textbook). 
 Step 6: Deliverables 
  
-To turn in your lab code, submit all your code as part of your homework pdf file. You can copy and paste the code into a word processor and then add it to your homework pdf. You also need to submit the console output and the waveform. You can take a screenshot and add it to your homework file. 
+To turn in your lab code, submit all your code as part of your homework pdf file. You can copy and paste the code into a word processor and then add it to your homework pdf. You also need to submit the console output and the waveform. You can take a screenshot and add it to your homework file. d
 
